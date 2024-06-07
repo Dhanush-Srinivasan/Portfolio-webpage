@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Aashish Sekar";
+            document.title = "Portfolio | Dhanush Srinivasan";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Data Analysis", "Artificial Intelligence","Machine Learning", "Deep Learning", "Data Science"],
+    strings: ["Cloud Computing","Web Development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,

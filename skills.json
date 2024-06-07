@@ -40,28 +40,12 @@
         "icon": "https://img.icons8.com/color/48/000000/opencv.png"
     },
     {
-        "name": "TensorFlow",
-        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+        "name": "Html",
+        "icon": "https://img.icons8.com/color/48/000000/html.png"
     },
     {
-        "name": "Django",
-        "icon": "https://img.icons8.com/color/48/000000/django.png"
-    },
-    {
-        "name": "PyTorch",
-        "icon": "https://raw.githubusercontent.com/aashishops/PortfolioWebpage/main/assets/images/skills/pytorch.png"
-    },
-    {
-        "name": "Keras",
-        "icon": "https://raw.githubusercontent.com/aashishops/PortfolioWebpage/main/assets/images/skills/keras.png"
-    }, 
-    {
-        "name": "Scikit Learn",
-        "icon": "https://raw.githubusercontent.com/aashishops/PortfolioWebpage/main/assets/images/skills/scikit_learn.png"
-    }, 
-    {
-        "name": "Streamlit",
-        "icon": "https://raw.githubusercontent.com/aashishops/PortfolioWebpage/main/assets/images/skills/streamlit.png"
+        "name": "Css",
+        "icon": "https://img.icons8.com/color/48/000000/css.png"
     }
-        
+    
 ]
